@@ -1,0 +1,99 @@
+main {
+margin-left: 10%;
+margin-right: 10%;
+margin-top: 20px;
+width: 640px;
+text-align: justify;
+border-style: dashed;
+border-size: 8px;
+border-color: rgba(133, 8, 8, 0.973);
+padding: 2%;
+}
+
+.textos {
+margin-left: 10%;
+margin-right: 10%;
+margin-top: 20px;
+width: 75%;
+text-align: justify;
+border-style: double ;
+border-size: 8px;
+border-color: rgba(10, 10, 250);
+padding: 2%;
+}
+
+.tarjetaG1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  background-color: #9ADDFF; #FA9069;
+}
+.tarjetaG2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  background-color: #FA9069;
+}
+.tarjetaG3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  background-color: #E3D054;
+}
+
+
+
+.parrafo {
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+}
+
+.parrafoTextos{
+  font-family: 'Roboto Slab', serif;
+  font-size: 16px;
+}
+
+.instrucciones {
+  font-family:'Courier New', Courier, monospace;
+  font-size: 14px;
+  color: red;
+}
+
+.titular {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-style: bold;
+}
+
+.titulo{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:22px;
+color: rgba(133, 8, 8, 0.973);
+text-align: right;
+}
+
+.tituloDelTexto{
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:22px;
+color: rgba(133, 8, 8, 0.973);
+text-align: left;
+}
+
+.AutorYFecha{
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size:11px;
+color: gray;
+text-align: right;
+}
+
+.AutorYEditorial{
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size:20px;
+color: blue;
+text-align: left;
+}
+
+.hechoCon {
+  font-family:'Courier New', Courier, monospace;
+font-size:15px;
+color: rgb(17, 1, 1);
+text-align: left;
+}
